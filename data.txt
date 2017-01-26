@@ -1,0 +1,12 @@
+CONFIGURATION FILE
+Resolution:1366x768
+
+Thematic tags:
+art, animals, space, nature
+
+Forbidden tags:
+manga, games, cars, car
+
+
+URL of already used images:
+
