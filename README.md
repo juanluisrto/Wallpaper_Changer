@@ -8,18 +8,18 @@ The images will be stored in a folder called "images".
 
 It works in Windows with a python 2.7 installed. Should be easy to adapt to other operating systems.
 
-###Configuration parameters in data.txt
+### Configuration parameters in data.txt
 - Thematic tags: here you write separated by commas the tags which you are interested in. The program will select randomly one of these and will search matching pictures
 - Forbidden tags: here you write separated by commas the tags which you want to avoid. If a matching image is as well tagged with at least one of the forbidden tags, it will be automatically dismissed.
 - Resolution: here you write the resolution you want for your wallpapers. The available resolutions are listed below 
 
-###Suggestion
+### Suggestion
 A shortcut to the program can be done by creating a direct access to the following command: 
 __"C:\Windows\System32\cmd.exe /c python C:\Users\the_path_to_your_file\Wallpaper_changer.py"__
 
 In the properties of the direct access select Execute: "minimized", to minimize the window automatically. The bash will close when the program terminates.
 
-####Available resolutions
+#### Available resolutions
 * **Wide 16** 10960x600	1152x720	1280x800	1440x900	1680x1050	1920x1200	2560x1600 2880x1800	3840x2400	5120x3200	7680x4800	
 * **Wide 5:3** 800x480	1280x768	
 * **UltraWide** 21:9 2560x1080	3440x1440	5120x2160	
